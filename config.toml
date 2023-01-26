@@ -1,0 +1,27 @@
+baseURL = "https://mcb2003.github.io"
+languageCode = "en-us"
+title = "Dan Gero's Mountain"
+
+[markup]
+  [markup.highlight]
+    guessSyntax = true
+    lineNos = true
+    noClasses = false
+
+[menu]
+  [[menu.social]]
+  identifier = "mastodon"
+  name = "Mastodon (@dangero@vocalounge.cafe)"
+  weight =  -80
+  url = "https://vocalounge.cafe/@dangero"
+  [[menu.social]]
+  identifier = "personalyoutube"
+  name = "Personal YouTube (@garrettbrown2000)"
+  weight = -70
+  url = "https://www.youtube.com/@garrettbrown2000"
+  [[menu.social]]
+  identifier = "musicyoutube"
+  name = "Music YouTube (@dangero2000)"
+  weight = -60
+  url = "https://www.youtube.com/@dangeromusic2000"
+  
