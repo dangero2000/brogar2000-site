@@ -10,11 +10,18 @@ weight: -100
 
 It's just me, Dan Gero. Well, my actual name is Garrett Brown, but who's judging?
 
-I'm a visually impaired amateur musician, Vocaloid Producer, language enthusiast, open source advocate, and the fourth geekiest person in the world. I'm a level 10 geek, and the 3 above me are [Mudb0y](https://github.com/Mudb0y/) at level 80, [Nobuyuki Yamaga](http://yama3nomori.jp/) at level 200, and [The Fake VIP](https://github.com/mcb2003/), whose level is over 9000. A million thank yous go to The Fake VIP himself for letting me use his website template.
+I'm a visually impaired amateur musician, Vocaloid Producer, language enthusiast, open source advocate, and the fourth geekiest person in the world.
+I'm a level 10 geek, and the 3 above me are [Mudb0y][mudb0y] at level 80, [Nobuyuki Yamaga][yama3nomori] at level 200, and [TheFake VIP][tfvip], whose level is over 9000.
+A million thank yous go to The Fake VIP himself for letting me use his [website template][tfvip-site].
+
+[mudb0y]: <https://github.com/mudb0y>
+[yama3nomori]: <http://yama3nomori.jp/>
+[tfvip]: <https://thefakevip.xyz>
+[tfvip-site]: <https://github.com/mcb2003/tfvip-site>
 
 <!--more-->
 
-Let's steal The Fake VIP's "Break it Down" gimmick, because I can:
+Let's steal TheFake VIP's "Break it Down" gimmick, because I can:
 
 Why Dan Gero
 
@@ -40,11 +47,9 @@ Open Source Advocate
 
 : The Fake VIP put it best himself, so I'll keep his paragraph below, then I'll add my thoughts afterwards..
 
-> I'm a huge proponent of [free, libre][fs], [open source][os] software. Developing the software that runs our lives out in the open increases security, encourages innovation, prevents monopolistic practices and above all, makes technology accessible to everyone.
-
->    I'm also a believer in [a decentralized, federated][fed] [self-hosted][selfhosted]  web and projects like [ActivityPub][ap], [Mastodon][mastodon], [Matrix][matrix], [Bit Torrent][bt], [Next Cloud][nc] and, if implemented correctly, [Crypto Currency][crypto].
-
-I would like to add that unfortunately, all other known Vocal Synth programs in the market are completely unusable for us, as far as I understand it. This even includes versions of Vocaloid after version 4. Most Vocal Synth programs are also close sourced, so creating accessibility fixes, plugins, scripts, or any other solutions is considerably more difficult. When it comes to open sourced programs, however, it increases the chances of someone being able to work on accessibility solutions. It doesn't necessarily mean that someone **will** work on a solution; it means that someone **can** work on a solution. I'd like to go more in depth about Vocal Synths and the benefits of the Open Source Movement as it relates to these programs in my blog, so definitely stay tuned for that.
+  > I'm a huge proponent of [free, libre][fs], [open source][os] software. Developing the software that runs our lives out in the open increases security, encourages innovation, prevents monopolistic practices and above all, makes technology accessible to everyone.
+  > 
+  >    I'm also a believer in [a decentralized, federated][fed] [self-hosted][selfhosted]  web and projects like [ActivityPub][ap], [Mastodon][mastodon], [Matrix][matrix], [Bit Torrent][bt], [Next Cloud][nc] and, if implemented correctly, [Crypto Currency][crypto].
 
     [fs]: <https://en.wikipedia.org/wiki/Free_software>
     [os]: <https://en.wikipedia.org/wiki/Open-source_software>
@@ -57,6 +62,8 @@ I would like to add that unfortunately, all other known Vocal Synth programs in 
     [bt]: <https://en.wikipedia.org/wiki/BitTorrent>
     [nc]: <https://nextcloud.com>
     [crypto]: <https://en.wikipedia.org/wiki/Cryptocurrency>
+
+  I would like to add that unfortunately, all other known Vocal Synth programs in the market are completely unusable for us, as far as I understand it. This even includes versions of Vocaloid after version 4. Most Vocal Synth programs are also close sourced, so creating accessibility fixes, plugins, scripts, or any other solutions is considerably more difficult. When it comes to open sourced programs, however, it increases the chances of someone being able to work on accessibility solutions. It doesn't necessarily mean that someone **will** work on a solution; it means that someone **can** work on a solution. I'd like to go more in depth about Vocal Synths and the benefits of the Open Source Movement as it relates to these programs in my blog, so definitely stay tuned for that.
 
 Geek
 
