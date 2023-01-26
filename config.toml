@@ -20,7 +20,7 @@ title = "Dan Gero's Mountain"
   weight = -70
   url = "https://www.youtube.com/@garrettbrown2000"
   [[menu.social]]
-  identifier = "youtube"
+  identifier = "youtube-square"
   name = "Music YouTube (@dangero2000)"
   weight = -60
   url = "https://www.youtube.com/@dangeromusic2000"
