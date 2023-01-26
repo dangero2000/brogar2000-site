@@ -1,5 +1,5 @@
-baseURL = "https://mcb2003.github.io"
-languageCode = "en-us"
+baseURL = "https://brogar2000.xyz"
+languageCode = "en-US"
 title = "Dan Gero's Mountain"
 
 [markup]
@@ -15,12 +15,12 @@ title = "Dan Gero's Mountain"
   weight =  -80
   url = "https://vocalounge.cafe/@dangero"
   [[menu.social]]
-  identifier = "personalyoutube"
+  identifier = "youtube"
   name = "Personal YouTube (@garrettbrown2000)"
   weight = -70
   url = "https://www.youtube.com/@garrettbrown2000"
   [[menu.social]]
-  identifier = "musicyoutube"
+  identifier = "youtube"
   name = "Music YouTube (@dangero2000)"
   weight = -60
   url = "https://www.youtube.com/@dangeromusic2000"
