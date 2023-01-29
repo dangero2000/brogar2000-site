@@ -1,7 +1,16 @@
-baseURL = "https://brogar2000.xyz"
-languageCode = "en-US"
 title = "Dan Gero's Mountain"
+baseURL = "https://brogar2000.xyz"
+copyright = "Copyright © 2023 Garrett Brown"
 
+# internationalization
+defaultContentLanguage = "en-us"
+[languages.en-us]
+languageName = "English"
+[languages.jp]
+languageName = "やまと"
+title = "ダン・ゲロの山"
+
+# Syntax highlighting for code blocks
 [markup]
   [markup.highlight]
     guessSyntax = true
