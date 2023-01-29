@@ -37,11 +37,14 @@ Wait... You're visually impaired?
 
 Musician
 
-: Well, I use the term **musician** fairly loosely here, but I have my moments. I'm not the best, but I'm certainly not the worst. I can play basic chords on a keyboard, but step recording is where I shine the most. I think I'm pretty decent at mixing and adding effects as well, but I like to send my work to professionals to make sure I'm doing things the right way. I would love to be able to play the piano though, and I would love to be at a professional level when it comes to production work. My DAW of choice is [Reaper](https://www.reaper.fm/), and the keyboard  I use is the [Komplete Kontrol M32](https://www.native-instruments.com/en/products/komplete/keyboards/komplete-kontrol-m32/] from [Native Instruments](https://www.native-instruments.com/)
+: Well, I use the term **musician** fairly loosely here, but I have my moments. I'm not the best, but I'm certainly not the worst. I can play basic chords on a keyboard, but step recording is where I shine the most. I think I'm pretty decent at mixing and adding effects as well, but I like to send my work to professionals to make sure I'm doing things the right way. I would love to be able to play the piano though, and I would love to be at a professional level when it comes to production work. My DAW of choice is [Reaper][reaper], and the keyboard  I use is the [Komplete Kontrol M32][m32]
+
+[reaper]: <https://www.reaper.fm/>
+[m32]: <https://www.native-instruments.com/en/products/komplete/keyboards/komplete-kontrol-m32/] from [Native Instruments](https://www.native-instruments.com/>
 
 Vocaloid producer
 
-: I love Vocaloid music with a passion. I won't say I love it with **all** of my heart and soul, because that would leave no room for my friends, family, or any other hobby/career path I partake in during my spare time. What I will say is that Vocaloid and vocal synths in general hold a special place in my heart, and hopefully that will never change for as long as I live. Vocaloid has some major accessibility issues that make it difficult to use, but I've found ways of working around its inaccessible interface. [Click here for more information on the different Vocal Synths that 	 available](https://vocalsynth.fandom.com/wiki/Vocal_Synthesizer_Wiki), and [Click here for information about Vocaloid specifically](https://en.wikipedia.org/wiki/Vocaloid)
+: I love Vocaloid music with a passion. I won't say I love it with **all** of my heart and soul, because that would leave no room for my friends, family, or any other hobby/career path I partake in during my spare time. What I will say is that Vocaloid and vocal synths in general hold a special place in my heart, and hopefully that will never change for as long as I live. Vocaloid has some major accessibility issues that make it difficult to use, but I've found ways of working around its inaccessible interface. [Click here for more information on the different Vocal Synths that 	 are available](https://vocalsynth.fandom.com/wiki/Vocal_Synthesizer_Wiki), and [Click here for information about Vocaloid specifically](https://en.wikipedia.org/wiki/Vocaloid)
 
 Open Source Advocate
 
@@ -61,7 +64,6 @@ Open Source Advocate
     [matrix]: <https://matrix.org/>
     [bt]: <https://en.wikipedia.org/wiki/BitTorrent>
     [nc]: <https://nextcloud.com>
-    [crypto]: <https://en.wikipedia.org/wiki/Cryptocurrency>
 
   I would like to add that unfortunately, all other known Vocal Synth programs in the market are completely unusable for us, as far as I understand it. This even includes versions of Vocaloid after version 4. Most Vocal Synth programs are also close sourced, so creating accessibility fixes, plugins, scripts, or any other solutions is considerably more difficult. When it comes to open sourced programs, however, it increases the chances of someone being able to work on accessibility solutions. It doesn't necessarily mean that someone **will** work on a solution; it means that someone **can** work on a solution. I'd like to go more in depth about Vocal Synths and the benefits of the Open Source Movement as it relates to these programs in my blog, so definitely stay tuned for that.
 
